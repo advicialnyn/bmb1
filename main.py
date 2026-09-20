@@ -1,4 +1,4 @@
-api='Enter Your API TOKEN HERE'
+api='8728344073:AAGhwJee1L9-LmbZweOzeA1SPaz8X3_XJMY'
 
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters,CallbackContext
